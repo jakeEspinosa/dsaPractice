@@ -4,7 +4,6 @@ Given two strings s and t, return true if t is an anagram of s, and false otherw
 
 Time Complexity: O(n)
 
-
 Space Complexity: O(n)
 '''
 
